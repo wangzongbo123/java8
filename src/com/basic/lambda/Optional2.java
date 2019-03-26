@@ -6,10 +6,7 @@ import java.util.function.Supplier;
 /**   
  * @ClassName:  Optional2   
  * @Description:TODO Optional 2
- * @author: Andy
- * @date:   2019年3月26日 下午11:27:18       
- * @Copyright: 2019. All rights reserved. 
- */
+*/
 public class Optional2 {
 
     static class Outer {
