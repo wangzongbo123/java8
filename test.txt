@@ -1,2 +1,7 @@
+<<<<<<< Upstream, based on origin/develop
 sdfsdf--develop2
 
+=======
+sdfsdf---master1
+
+>>>>>>> af6543d git commit
