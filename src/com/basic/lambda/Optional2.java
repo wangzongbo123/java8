@@ -5,7 +5,7 @@ import java.util.function.Supplier;
 
 /**   
  * @ClassName:  Optional2   
- * @Description:TODO(这里用一句话描述这个类的作用)   
+ * @Description:TODO Optional learn 1
  * @author: Andy
  * @date:   2019年3月26日 下午11:27:18       
  * @Copyright: 2019. All rights reserved. 
