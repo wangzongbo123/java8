@@ -1,10 +1,2 @@
-<<<<<<< Upstream, based on origin/develop
-<<<<<<< Upstream, based on origin/develop
-=======
->>>>>>> 81c70ee git commit to develop
 sdfsdf--develop2
 
-=======
-sdfsdf---master1
-
->>>>>>> af6543d git commit
