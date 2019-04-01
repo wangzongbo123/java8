@@ -5,11 +5,8 @@ import java.util.function.Supplier;
 
 /**   
  * @ClassName:  Optional2   
- * @Description:TODO Optional learn 1
- * @author: Andy
- * @date:   2019年3月26日 下午11:27:18       
- * @Copyright: 2019. All rights reserved. 
- */
+ * @Description:TODO Optional 2
+*/
 public class Optional2 {
 
     static class Outer {
